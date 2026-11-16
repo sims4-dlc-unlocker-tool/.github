@@ -7,7 +7,7 @@ An all-in one universal tool that automatically  unlocks DLCs in **Sims 4**, bot
 ## 🔗 Latest Release
 
 - **💾 Version 2.4.0.6**
- 🔗 [Releases Page]()
+ 🔗 [Releases Page](https://github.com/sims4-dlc-unlocker-tool/.github/releases)
   
 ---
 
